@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DanProII
 - 👀 I’m interested in coding and art stuff
 - 🌱 I’m currently learning something... many things...
-- 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me (hmmm... nothing yet)
 
 <!---
